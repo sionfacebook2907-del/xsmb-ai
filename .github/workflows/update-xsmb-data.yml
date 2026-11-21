@@ -1,5 +1,5 @@
 name: Update XSMB data
-'on':
+on:
   workflow_dispatch:
   schedule:
     - cron: "15 12 * * *"
